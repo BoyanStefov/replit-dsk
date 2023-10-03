@@ -1,1 +1,3 @@
-print ('github code')
+for i in range(5):
+  print('github code')
+print ('second line')
